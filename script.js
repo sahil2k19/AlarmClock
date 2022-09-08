@@ -1,3 +1,5 @@
+
+//fetching display
 const display = document.getElementById('clock');
 
 
